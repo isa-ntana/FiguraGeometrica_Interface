@@ -1,1 +1,1 @@
-![uml do sistema](./image/uml.png)
+![uml do sistema](image/uml.png)
